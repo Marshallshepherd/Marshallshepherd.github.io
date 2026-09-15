@@ -12,6 +12,7 @@ border-radius: 25px;
 box-shadow: 5px 5px 0 0;
 background: url("/images/orangebox.png") right repeat-y;
 background-attachment: fixed;
+background-color: white;
 }
 a:focus, a:hover {
 font-style: italic;
@@ -35,4 +36,26 @@ text-shadow: 2px 2px 2px rgb(128, 0, 0);
 }
 main {
 clear: left;
+}
+main h3 { 
+    margin: 3em 2em 1.5em;
+    border: 5px double blue
+    border-radius: 20px;
+    box-shadow: 3px 3px 4px 4px red;
+    padding: 1em; 
+    font-size: 105%;
+}
+main nav{ 
+    margin: 1.5em 2em 1.5em; 
+    border: 5px dashed blue;
+    border-radius: 20px;
+    box-shadow: 3px 3px 4px 4px red;
+    padding: 0.5em;
+}
+main div.contact{
+    margin: 1.5em 2em 0 2em; 
+    border: 5px dotted blue
+    border-radius: 20px;
+    box-shadow: 3px 3px 4px 4px red;
+    padding: 1em;
 }
