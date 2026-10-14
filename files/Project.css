@@ -1,61 +1,62 @@
 html {
 background: linear-gradient(to left, /* color stops */);
-}[span_1](start_span)[span_1](end_span)
+}[span_0](start_span)[span_0](end_span)
 
 body {
 width: 90%;
-}[span_2](start_span)[span_2](end_span)
+}[span_1](start_span)[span_1](end_span)
 
 a:focus, a:hover {
 border: 3px blue;
 border-style: dotted;
-}[span_3](start_span)[span_3](end_span)
+}[span_2](start_span)[span_2](end_span)
 
 article {
 clear: left;
 width: 70%;
 float: left;
-column-count:2;
+column-count: 2;
 column-rule: 2px dotted maroon;
 column-gap: 2em;
 margin-left: 2em;
-}[span_4](start_span)[span_4](end_span)
+}[span_3](start_span)[span_3](end_span)
 
 article h3 {
 column-span: all;
-}[span_5](start_span)[span_5](end_span)
+}[span_4](start_span)[span_4](end_span)
 
 article img {
 float: left;
 margin-right: 1em;
 margin-bottom: 1em;
-}[span_6](start_span)[span_6](end_span)
+}[span_5](start_span)[span_5](end_span)
 
 article p::first-letter {
 font-size: 3em;
 font-weight: bold;
 font-style: italic;
 color: lightgreen;
-}[span_7](start_span)[span_7](end_span)
+}[span_6](start_span)[span_6](end_span)
 
 aside {
 width: 20%;
 float: right;
 background-color: #ffebc6;
 padding: 1em;
-}[span_8](start_span)[span_8](end_span)
+}[span_7](start_span)[span_7](end_span)
 
 footer {
 clear: both;
 border-top: 2px solid maroon;
-}[span_9](start_span)[span_9](end_span)
+}[span_8](start_span)[span_8](end_span)
 
 .fixed {
 position: fixed;
-bottom 0;
-right 0;
-width auto;
-background-color white;
-padding 0.5em 1em;
-z-index 1000;
-}[span_10](start_span)[span_10](end_span)
+bottom: 0;
+right: 0;
+width: auto;
+background-color: white;
+padding: 0.5em 1em;
+z-index: 1000;
+}[span_9](start_span)[span_9](end_span)
+
