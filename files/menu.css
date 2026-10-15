@@ -27,16 +27,16 @@ background-color: #111;
 
 aside ol {
 list-style-type: upper-roman;
-}[span_2](start_span)[span_2](end_span)
+}
 
 aside ul {
 list-style-type: square;
-}[span_3](start_span)[span_3](end_span)
+}
 
 article {
 width: 70%;
-float left;
-padding 20px;
+float: left;
+padding: 20px;
 }
 
 aside {
@@ -46,4 +46,3 @@ padding: 20px;
 background-color: #f4f4f4;
 margin-top: 20px;
 }
-[span_4](start_span)[span_4](end_span)
