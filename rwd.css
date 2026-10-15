@@ -184,7 +184,10 @@ section a {
 article{
  padding: 0 1em;
 }
-
-article h2, set font-size: 1.25em. 
-
- article p, set font-size: 1em.  
+article h2 {
+     font-size: 1.25em;
+}
+article p {
+     font-size: 1em;
+}
+article img  
