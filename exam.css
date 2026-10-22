@@ -54,4 +54,51 @@ border-bottom: 2px solid #ddd;
 padding-bottom: 8px;
 margin-top: 0;
 }
+h2 {
+color: #222;
+font-size: 1.3em;
+margin-top: 30px;
+background-color: #f8f9fa;
+padding: 6px 10px;
+border-left: 4px solid #1b4d3e;
+}
+.first-letter {
+float: left;
+font-family: Georgia, serif;
+font-size: 3.8em;
+line-height: 0.75;
+margin-right: 8px;
+margin-top: 4px;
+font-weight: bold;
+color: #222;
+}
+p {
+margin-bottom: 15px;
+text-align: justify;
+}
+main section img {
+float: left;
+margin: 4px 18px 12px 0;
+max-width: 230px;
+height: auto;
+border: 1px solid #444;
+}
+main section video {
+display: block;
+margin: 20px auto;
+width: 75%;
+max-width: 500px;
+background-color: #000;
+border: 1px solid #ccc;
+}
+aside {
+width: 28%;
+margin: 20px 3% 20px 0;
+float: left;
+background-color: #59cc43; 
+padding: 15px 20px;
+border: 1px solid #5a8a63;
+box-sizing: border-box;
+font-size: 0.9em;
+}
 
