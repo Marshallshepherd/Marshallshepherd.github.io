@@ -34,4 +34,24 @@ padding: 5px 10px;
 header nav ul li a:hover {
 color: #d1e7dd
 }
+main {
+width: 63%;
+margin: 20px 2% 20px 3%;
+float: left;
+background-color: #ffffff;
+padding: 25px;
+border: 1px solid #b0b0b0;
+box-sizing: border-box;
+box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+article {
+width: 100%;
+}
+h1 {
+color: #222;
+font-size: 1.8em;
+border-bottom: 2px solid #ddd;
+padding-bottom: 8px;
+margin-top: 0;
+}
 
