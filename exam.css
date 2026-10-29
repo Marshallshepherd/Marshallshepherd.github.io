@@ -46,6 +46,7 @@ box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
 article {
 width: 100%;
+column-count: 3;
 }
 h1 {
 color: #222;
